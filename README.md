@@ -1,4 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sagar Rawat</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3B82F6,100:8B5CF6&text=Sagar%20Rawat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20•%20Machine%20Learning%20•%20Data%20Analytics&descAlignY=65"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sagar+Rawat;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Researcher+%7C+Builder+%7C+Learner"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sagar%20Rawat&fontSize=55&fontColor=ffffff&color=0:0f172a,100:2563eb"/>
+</p>
+
+
 
 <p align="center">
   <strong>Aspiring AI & Data Professional</strong><br>
