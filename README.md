@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sagar Rawat</h1>
 
 <p align="center">
-  AI Engineer • ML Researcher • Computer Science Student
+  <strong>Aspiring AI & Data Professional</strong><br>
+  Machine Learning • Data Analytics • Research
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Spiking+Neural+Networks;Edge+Computing;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Analytics+Explorer;Researching+Spiking+Neural+Networks;Building+AI+Powered+Solutions" />
 </p>
 
 ---
@@ -14,54 +15,79 @@
 
 🎓 Computer Science Student at Chandigarh University
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+🤖 Interested in Artificial Intelligence, Machine Learning, and Data Analytics
 
-🧠 Researching Spiking Neural Networks and Neuromorphic Computing
+🧠 Exploring Spiking Neural Networks and Neuromorphic Computing
 
-🌍 Working on Edge Computing based Pollution Monitoring Systems
+📊 Enjoy working with data, extracting insights, and solving real-world problems
 
-📚 Exploring LLMs, Deep Learning and Intelligent Systems
+🌱 Continuously learning and building projects across AI and analytics
+
+---
+
+## 🎯 Current Focus
+
+* Machine Learning
+* Data Analytics
+* Edge Computing
+* Deep Learning
+* Research & Innovation
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,tensorflow,pytorch" />
+</p>
+
+### Data & AI
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* SQL
+
+---
+
+## 📌 Featured Projects
+
+🧠 Spiking Neural Network Research
+
+🌍 Edge Computing Based Pollution Monitoring System
+
+⚡ Ethara Workshop
+
+📊 Data Analytics & Machine Learning Projects
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SagarXD-bit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXD-bit&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://github.com/SagarXD-bit">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+📧 Email: [sagarrawatinvincible@gmail.com](mailto:sagarrawatinvincible@gmail.com)
+
+💼 LinkedIn: Add your LinkedIn profile here
 
 ---
 
-## 🛠 Languages & Tools
+### 📊 Status Dashboard
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,mysql,git,github,vscode,tensorflow,pytorch" />
-</p>
+```text
+Learning      ██████████ 100%
+Building      ████████░░  80%
+Research      █████████░  90%
+Curiosity     ██████████ 100%
+```
 
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarXD-bit&theme=github-dark"/>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/SagarXD-bit/SagarXD-bit/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SagarXD-bit&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarXD-bit&layout=compact&theme=github_dark"/>
+> "Turning data into insights and ideas into intelligent systems."
