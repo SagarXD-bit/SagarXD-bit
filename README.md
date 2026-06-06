@@ -1,8 +1,7 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sagar%20Rawat&fontSize=55&fontColor=ffffff&color=0:0f172a,100:2563eb"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sagar+Rawat;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Researcher+%7C+Builder+%7C+Learner"/>
 </p>
-
-
 
 <p align="center">
   <strong>Aspiring AI & Data Professional</strong><br>
